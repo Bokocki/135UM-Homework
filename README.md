@@ -13,3 +13,5 @@ Homework solutions by Michał Marczak for the course 135UM.
 - [Homework 04](Homework04.ipynb)
 
 - [Homework 05](Homework05.ipynb)
+
+- [Homework 06](Homework06.ipynb)
